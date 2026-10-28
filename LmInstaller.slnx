@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LmInstaller.Cli/LmInstaller.Cli.csproj" />
+    <Project Path="src/LmInstaller.Core/LmInstaller.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LmInstaller.Core.Tests/LmInstaller.Core.Tests.csproj" />
+  </Folder>
+</Solution>

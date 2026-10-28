@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>LmInstaller.Cli</RootNamespace>
+    <AssemblyName>lminstaller</AssemblyName>
+    <IsPackable>false</IsPackable>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../LmInstaller.Core/LmInstaller.Core.csproj" />
+  </ItemGroup>
+
+</Project>

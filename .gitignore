@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+artifacts/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+coverage*.json
+coverage*.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local runtime data (never commits user app data)
+*.local.json
